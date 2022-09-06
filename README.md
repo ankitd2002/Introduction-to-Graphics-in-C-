@@ -1,1 +1,0 @@
-# Introduction-to-Graphics-in-C-
